@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">helloWord</string>
+    <string name="tvMessage">hello world</string>
+</resources>
