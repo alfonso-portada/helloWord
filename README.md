@@ -4,8 +4,8 @@ _es une ejemplo basico de como mandar un texto por pantalla en el telefono_
 
 ## Pre-requisitos 📋
 
-_Version del SDK la compilacion 29
-_Version minima del SDK 23
+_Version del SDK la compilacion 29_
+_Version minima del SDK 23_
 _Version provada del SDK 28_
 
 ## lenguaje 
@@ -18,14 +18,14 @@ _esta echo en java_
 
 ## desarroyo
 
-* *clase principal* que llama a la vista_
-![Optional Text](../master/README.img/clasePrincipal_onCreate.JPG)
+* *clase principal* que llama a la vista
+_![Optional Text](../master/README.img/clasePrincipal_onCreate.JPG)_
 
-* vista con un componente *TextView* con un *recurso tipo string*_
-![Optional Text](../master/README.img/xmlPrincipal_tvMessage.JPG)
+* vista con un componente *TextView* con un *recurso tipo string*
+_![Optional Text](../master/README.img/xmlPrincipal_tvMessage.JPG)_
 
-* *El recurso tipo string*_
-![Optional Text](../master/README.img/xmlRecurso_string.JPG)
+* *El recurso tipo string*
+_![Optional Text](../master/README.img/xmlRecurso_string.JPG)_
 
 ## Autores ✒️
 
